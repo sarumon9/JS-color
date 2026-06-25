@@ -5,6 +5,11 @@
     background-color: black;
 }
 
+.arro {
+    width: 200px;
+    height: 50px;
+}
+
 section {
     display: flex;
 }
